@@ -21,7 +21,7 @@
 
 ### Инфраструктура
 
-![infrastructure](p2p_services.png)
+![infrastructure](p2p.png)
 
 ### Возможные события
 
